@@ -92,6 +92,6 @@
 <div align="center">
 
 ### 🤝 Let’s connect
-📩 **Email:** yourmail@gmail.com • 💬 **Telegram:** @yourusername
+📩 **Email:** rahimov55shah@gmail.com • 💬 **Telegram:** @raximovshaxriyor
 
 </div>
