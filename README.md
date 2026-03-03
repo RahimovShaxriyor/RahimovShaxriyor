@@ -8,7 +8,7 @@
 ### 🚀 Backend / Full-Stack Developer • Java • Spring Boot • Frontend • Microservices
 
 <p>
-  <a href="https://github.com/Shaxriyor">
+  <a href="https://github.com/RahimovShaxriyor">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:rahimov55shah@gmail.com">
