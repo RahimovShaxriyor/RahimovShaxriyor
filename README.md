@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Assalomu alaykum! I'm **Shaxriyor Rahimov**
+# 👋 Assalomu alaykum! I'm **Shaxriyor Raximov**
 
 ### 🚀 Java Backend / Full-Stack Developer
 
