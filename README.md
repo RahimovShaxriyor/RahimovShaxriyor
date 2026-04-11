@@ -4,134 +4,91 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shaxriyor%20Raximov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 # 👋 Assalomu alaykum! I'm **Shaxriyor Raximov**
 
-### 🚀 Java Backend / Microservices / Full-Stack Developer
+### 🚀 Java Backend | Microservices | Flutter | Full-Stack Developer
 
-💡 Building scalable **Delivery Systems**, **Microservices**, **REST APIs**, and **Enterprise Applications**
-
-<p>
-  <a href="https://github.com/RahimovShaxriyor">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rahimov55shah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/raximovshaxriyor">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+💡 Building scalable **Delivery Systems**, **Microservices**, and **Enterprise Applications**
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
 - 💼 Java Backend Developer
-- 🏗 Building Microservices & Distributed Systems
-- 🚀 Developing Delivery & Logistics Platforms
-- 🔐 Security, JWT, Authentication expert
-- ⚙️ Clean Architecture & SOLID enthusiast
-- 🌍 Full-stack mindset (Backend + Flutter + Frontend)
+- 🏗 Microservices Architecture
+- 🚀 Delivery Systems Development
+- 🔐 Security / JWT / Authentication
+- ⚙️ Clean Architecture & SOLID
+- 🌍 Backend + Flutter Mobile Development
 
 ---
 
 # 🚀 Current Project
 
-### 🛵 Deliver App — Microservices Delivery Platform
+## 🛵 Deliver App — Microservices Delivery Platform
 
 Features:
 
 - Auth Service
 - Order Service
-- Delivery / Map Service
+- Delivery Service
 - Courier Tracking
 - Admin Dashboard
-- Real-time Delivery Tracking
-- Kafka Event Architecture
+- Real-time tracking
+- Kafka architecture
 
-Tech Stack:
+Tech:
 
-- Spring Boot Microservices
+- Spring Boot
 - PostgreSQL
 - Redis
 - Kafka
 - Docker
-- Flutter Mobile App
-
----
-
-# ☕ Backend Development
-
-Technologies:
-
-- Java 17+
-- Spring Boot
-- Spring Security
-- Hibernate / JPA
-- REST API
-- JWT Authentication
-- Redis
-- PostgreSQL
-- Docker
-
----
-
-# 🧩 Microservices & Messaging
-
-- Apache Kafka
-- RabbitMQ
-- Redis Pub/Sub
-- Event Driven Architecture
-- Microservices Communication
-
----
-
-# 🎨 Frontend / Mobile
-
 - Flutter
-- HTML5
-- CSS3
-- JavaScript
-- Angular
-- Next.js
-- Bootstrap
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## Backend
+### Backend
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-%236DB33F.svg?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## Messaging
+### Database
 
-![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## Frontend
+### Messaging
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## Database
+### Mobile
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-## DevOps
+### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahimovShaxriyor&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
 
 ---
 
@@ -139,9 +96,9 @@ Technologies:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RahimovShaxriyor&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RahimovShaxriyor&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimovShaxriyor&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimovShaxriyor&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -157,6 +114,16 @@ Technologies:
 
 ---
 
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahimovShaxriyor&theme=tokyo-night"/>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <picture>
@@ -166,11 +133,25 @@ Technologies:
 
 ---
 
-# 🤝 Contact
+# 📫 Contact
 
-📩 Email: rahimov55shah@gmail.com  
-💬 Telegram: https://t.me/raximovshaxriyor  
+<p align="center">
+<a href="mailto:rahimov55shah@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/raximovshaxriyor">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ If you like my projects — consider starring repositories
+<div align="center">
+
+⭐ Don't forget to star my repositories
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
