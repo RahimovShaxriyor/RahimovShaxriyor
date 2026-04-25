@@ -4,8 +4,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Raximov&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
-  
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Raximov&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&color=38C2FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Microservices+Architect;Full‑Stack+Engineer;Open+Source+Lover" />
   
   <br/>
