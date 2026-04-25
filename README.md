@@ -1,12 +1,12 @@
 <!-- ============================================ -->
-<!--      SHAXRIYOR RAXIMOV — MASTER PROFILE      -->
+<!--   SHAXRIYOR RAXIMOV — FULL‑STACK MASTER      -->
 <!-- ============================================ -->
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Raximov&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Raximov&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20%7C%20JavaScript%20%7C%20Full‑Stack%20Developer&descSize=20&descAlignY=62" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&color=38C2FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Microservices+Architect;Full‑Stack+Engineer;Open+Source+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&color=38C2FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Frontend+%26+Mobile+Engineer;Microservices+Architect;Open+Source+Lover" />
   
   <br/>
   
@@ -26,13 +26,13 @@
 
 ## 🌟 **Обо мне**
 
-> 🚀 **Java Backend Developer** | 🏗️ **Микросервисы** | 📦 **Delivery‑системы** | 📱 **Flutter**
+> 🚀 **Full‑Stack Developer** | ☕ **Java Backend** | ⚛️ **React / Vue** | 📱 **Flutter**
 
-- 🔭 Сейчас строю **платформу доставки** на микросервисах (Kafka, Redis, Spring Boot, WebSocket)  
-- 📚 Изучаю **Kubernetes, GraphQL, Reactive Streams**  
-- 🤝 Ищу единомышленников для **open‑source Java/Spring** проектов  
-- 💬 Спрашивай меня о **микросервисах, JWT, Hibernate, Docker**  
-- ⚡ Интересный факт: я оптимизирую маршруты доставки так же, как и код — на максимум скорости  
+- 🔭 Сейчас разрабатываю **высоконагруженные веб-приложения** и **микросервисы**
+- 📚 Изучаю **Next.js, NestJS, GraphQL, Kubernetes**
+- 🤝 Открыт для сотрудничества в **open‑source проектах** на Java/JS/TS
+- 💬 Спрашивай меня о **Spring Boot, React, Docker, PostgreSQL, WebSocket**
+- ⚡ Интересный факт: я одинаково люблю писать бэкенд и фронтенд, и умею находить золотую середину
 
 ---
 
@@ -40,34 +40,16 @@
 
 <div align="center">
   
-| **Backend**                     | **Databases & Cache**          | **Messaging**                   | **Mobile & DevOps**             |
+| **Backend (Java)**              | **Frontend (JS/TS)**            | **Mobile & DevOps**              | **Databases & Cache**            |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) |                                |                                | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) |                                |                                | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |                              |
+| ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) (for full-stack) |                              |
+| ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |                              |
 
 </div>
-
----
-
-## 📦 **Текущий проект: Deliver App**
-
-<details>
-<summary><b>🔍 Микросервисная платформа доставки (подробнее)</b></summary>
-
-| Сервис                 | Технологии                                      | Статус       |
-|------------------------|------------------------------------------------|--------------|
-| **Auth Service**       | Spring Security, JWT, PostgreSQL               | ✅ Готов     |
-| **Order Service**      | Spring Boot, Redis, Kafka                      | 🚧 В работе  |
-| **Delivery Service**   | Spring Boot, WebSocket, Kafka                  | 🚧 В работе  |
-| **Courier Tracking**   | Kafka, Redis GeoJSON                           | 🚧 В работе  |
-| **Admin Dashboard**    | Spring Boot + React (планируется)              | 📅 План      |
-| **Mobile Client**      | Flutter, WebSocket                             | 🚧 В работе  |
-
-**Архитектура:** событийно‑ориентированная (Kafka), контейнеризация Docker, реалтайм‑трекинг через WebSocket.
-
-</details>
 
 ---
 
