@@ -1,109 +1,148 @@
-<!-- ============================================ -->
-<!--   SHAXRIYOR RAKHIMOV — FULL-STACK DEVELOPER   -->
-<!-- ============================================ -->
- 
+<!-- Profile README for github.com/RahimovShaxriyor -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Rakhimov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20JavaScript%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="header banner"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=38C2FF&center=true&vCenter=true&width=560&lines=Java+%2F+Spring+Boot+Backend+Developer;Frontend+%26+Mobile+Engineer;Microservices+%26+Distributed+Systems;Open+Source+Contributor" alt="typing svg"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=RahimovShaxriyor&style=for-the-badge&color=0891b2" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/RahimovShaxriyor?style=for-the-badge&logo=github&color=0891b2" alt="followers"/>
-<img src="https://img.shields.io/github/stars/RahimovShaxriyor?style=for-the-badge&logo=github&color=0891b2" alt="stars"/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0e7490,100:22d3ee&text=Shaxriyor%20Raximov&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20Backend%20%E2%80%A2%20AI%20Products&descSize=19&descAlignY=59" alt="Shaxriyor Raximov — Full-Stack Developer" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&lines=Java+%26+Spring+Boot;React+%26+TypeScript;Microservices+%26+Real-time+Systems;AI+%26+Computer+Vision;From+idea+to+production-ready+product" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <b>Assalomu alaykum! Добро пожаловать в мой код-мир 👋</b>
+
+  <br /><br />
+
+  <a href="https://github.com/RahimovShaxriyor?tab=followers"><img src="https://img.shields.io/github/followers/RahimovShaxriyor?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0891b2" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RahimovShaxriyor&style=for-the-badge&color=0891b2&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/RahimovShaxriyor?tab=repositories"><img src="https://img.shields.io/github/stars/RahimovShaxriyor?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=0891b2" alt="GitHub stars" /></a>
+
 </div>
+
 ---
- 
-## 🌟 About Me
- 
-**Full-Stack Developer** focused on Java backend systems and modern JavaScript/TypeScript frontends.
- 
-- 🔭 Currently building **high-load web applications** and **microservices**
-- 📚 Currently learning **Next.js, NestJS, GraphQL, Kubernetes**
-- 🤝 Open to collaborating on **open-source projects** in Java, JavaScript, and TypeScript
-- 💬 Ask me about **Spring Boot, React, Docker, PostgreSQL, WebSocket**
-- ⚡ Equally comfortable in backend and frontend — I focus on finding the right balance between the two
+
+## 👨‍💻 Обо мне
+
+Я **Full-Stack разработчик из Узбекистана**, создающий полноценные продукты: от архитектуры и защищённого backend до современного интерфейса и AI‑сервисов.
+
+- ☕ Основное направление — **Java, Spring Boot, Spring Security и PostgreSQL**
+- ⚛️ Frontend — **React, TypeScript, Next.js и Vue**
+- 🤖 Работаю с **FastAPI, MediaPipe, YOLO и OpenCV**
+- ⚡ Создаю **REST API, real-time системы, WebSocket и event-driven сервисы**
+- 🐳 Упаковываю приложения с помощью **Docker, Nginx и Linux**
+- 🤝 Открыт к интересным проектам, сотрудничеству и open source
+
+> **Сейчас в фокусе:** AI Passport — Telegram Mini App с безопасной авторизацией, face capture, active liveness и интерактивным AI‑опытом.
+
 ---
- 
-## 🛠 Tech Stack
- 
+
+## 🚀 Избранные проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 AI Passport</h3>
+      <p>Telegram AI‑продукт с защищённой авторизацией, захватом лица, active liveness и коллекционной карточкой результата.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+      <p align="center"><a href="https://github.com/RahimovShaxriyor/AI-Passport-Starter"><b>Посмотреть проект →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏨 HotelOS</h3>
+      <p>Система управления отелем из нескольких сервисов с RabbitMQ, API Gateway и live WebSocket‑панелью.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="center"><a href="https://github.com/RahimovShaxriyor/hotelos-microservices"><b>Посмотреть проект →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ CloudWare Pro</h3>
+      <p>ERP / CRM / WMS для оптового бизнеса: склады, заказы, платежи, аналитика, RBAC и аудит действий.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      </p>
+      <p align="center"><a href="https://github.com/RahimovShaxriyor/cloudeware-pro"><b>Посмотреть проект →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎥 VideoStream AI Detector</h3>
+      <p>Real-time обнаружение объектов из камеры или видеопотока с современным web‑интерфейсом.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
+      <p align="center"><a href="https://github.com/RahimovShaxriyor/VideoStream-AI-Detector"><b>Посмотреть проект →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Технологический стек
+
 <div align="center">
-**Backend**
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- 
-**Frontend**
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
- 
-**Mobile & DevOps**
- 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
-**Messaging, Databases & Cache**
- 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
- 
+
+  <h3>Backend & AI</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,python,fastapi&theme=dark" alt="Backend and AI stack" />
+
+  <h3>Frontend & Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,flutter,html,css&theme=dark" alt="Frontend and mobile stack" />
+
+  <h3>Data & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,nginx,linux,git,github&theme=dark" alt="Data and infrastructure stack" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+
 </div>
+
 ---
- 
-## 📊 GitHub Stats
- 
+
+## 📊 GitHub активность
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahimovShaxriyor&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimovShaxriyor&layout=compact&hide_border=true&theme=tokyonight" width="38%" alt="top languages"/>
-<br/><br/>
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahimovShaxriyor&hide_border=true&theme=tokyonight" width="70%" alt="streak stats"/>
-<br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahimovShaxriyor&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
+
+  <img width="680" src="https://streak-stats.demolab.com?user=RahimovShaxriyor&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub contribution streak" />
+
+  <br />
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahimovShaxriyor&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
+
 </div>
+
 ---
- 
-## 🏆 Trophies
- 
+
+## 📫 Связаться со мной
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RahimovShaxriyor&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="trophies"/>
+
+  <a href="https://t.me/raximovshaxriyor"><img src="https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/justmeshaxriyor"><img src="https://img.shields.io/badge/Telegram-Мой_канал-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel" /></a>
+  <a href="mailto:rahimov55shah@gmail.com"><img src="https://img.shields.io/badge/Gmail-Написать-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+  <br /><br />
+
+  <b>Открыт к сотрудничеству и интересным идеям 🚀</b>
+  <br />
+  <sub>Спасибо за визит. Хорошего дня и чистого кода ☕</sub>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:0e7490,100:22d3ee" alt="Footer" />
+
 </div>
----
- 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
----
- 
-## 📫 Contact
- 
-<div align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/raximovshaxriyor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimov55shah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimovShaxriyor)
- 
-</div>
----
- 
-<div align="center">
-⭐ If you find my work useful, consider starring the repository ⭐
- 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer banner"/>
