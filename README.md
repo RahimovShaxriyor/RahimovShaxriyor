@@ -36,6 +36,28 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
+## 💼 Work Experience
+
+<div align="center">
+
+| Period | Company | Role | Stack |
+|:------:|:-------:|:----:|:-----:|
+| **Feb 2026 — Present** | **BTS** | Full-Stack Software Engineer | Java · Spring Boot · React · TypeScript · PostgreSQL · Docker |
+
+</div>
+
+<!--
+  ⚠️ Заполни/поправь под реальные факты: обязанности, проекты, достижения.
+  Пример расширенного формата, если захочешь добавить детали под таблицей:
+
+  **BTS — Full-Stack Software Engineer** (Feb 2026 — Present)
+  - Designed and implemented REST APIs and backend services using Spring Boot
+  - Built and maintained React/TypeScript frontends
+  - Worked on containerized deployments with Docker and Nginx
+-->
+
+---
+
 ## 🧩 Tech Stack at a Glance
 
 <div align="center">
@@ -222,6 +244,38 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
+## 📌 Pinned Projects
+
+<!--
+  ⚠️ Замени REPO_NAME_1 / REPO_NAME_2 на реальные названия своих репозиториев
+  (регистр важен, имя берётся из URL github.com/RahimovShaxriyor/<repo>).
+-->
+
+<div align="center">
+
+<a href="https://github.com/RahimovShaxriyor/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahimovShaxriyor&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="pinned repo 1"/>
+</a>
+<a href="https://github.com/RahimovShaxriyor/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahimovShaxriyor&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="pinned repo 2"/>
+</a>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<!-- ⚠️ Оставь только те, что реально есть — впиши название и ссылку -->
+
+<div align="center">
+
+![Certification](https://img.shields.io/badge/Add_Your_Certification-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -241,6 +295,38 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
+## 🃏 Profile Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimovShaxriyor&theme=tokyonight" width="45%" alt="profile details card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahimovShaxriyor&theme=tokyonight&utcOffset=5" width="45%" alt="productive time card"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahimovShaxriyor&theme=tokyonight" width="45%" alt="stats card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahimovShaxriyor&theme=tokyonight" width="45%" alt="repos per language card"/>
+
+</div>
+
+---
+
+## 📈 Coding Activity (WakaTime)
+
+<!--
+  ⚠️ Требует бесплатный аккаунт на wakatime.com + установленный плагин в IDE.
+  После первой недели трекинга README WakaTime сам генерирует эту секцию
+  через wakatime/waka-readme (GitHub Action) и вставляет её между маркерами ниже.
+-->
+
+<!--START_SECTION:waka-->
+```text
+Подключи WakaTime и Action wakatime/waka-readme — статистика появится здесь автоматически.
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -248,6 +334,49 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 <img src="https://github-profile-trophy.vercel.app/?username=RahimovShaxriyor&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" alt="trophies"/>
 
 </div>
+
+---
+
+## 🎯 GitHub Achievements
+
+<!-- ⚠️ Оставь только реально полученные ачивки: github.com/RahimovShaxriyor?tab=achievements -->
+
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-181717?style=for-the-badge)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-181717?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-181717?style=for-the-badge)
+![Arctic Code Vault Contributor](https://img.shields.io/badge/❄️_Arctic_Code_Vault_Contributor-181717?style=for-the-badge)
+![Starstruck](https://img.shields.io/badge/🌟_Starstruck-181717?style=for-the-badge)
+
+</div>
+
+---
+
+## 🗺 3D Contribution Calendar
+
+<!--
+  ⚠️ Требует одноразовую настройку GitHub Action в форке
+  yoshi389111/github-profile-3d-contrib на твоём аккаунте —
+  после первого запуска Action сам сгенерирует и обновит SVG ниже.
+-->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/RahimovShaxriyor/github-profile-3d-contrib/main/profile-3d-contrib/grid.svg" alt="3D contribution calendar" width="90%"/>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!--
+  ⚠️ Требует одноразовую настройку gautamkrishnar/blog-post-workflow (GitHub Action)
+  с твоим RSS-фидом (Medium / Hashnode / dev.to) — Action сам обновляет список ниже.
+-->
+
+<!-- BLOG-POST-LIST:START -->
+- Подключи `gautamkrishnar/blog-post-workflow` — последние статьи появятся здесь автоматически
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
