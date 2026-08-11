@@ -46,16 +46,6 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
-<!--
-  ⚠️ Заполни/поправь под реальные факты: обязанности, проекты, достижения.
-  Пример расширенного формата, если захочешь добавить детали под таблицей:
-
-  **BTS — Full-Stack Software Engineer** (Feb 2026 — Present)
-  - Designed and implemented REST APIs and backend services using Spring Boot
-  - Built and maintained React/TypeScript frontends
-  - Worked on containerized deployments with Docker and Nginx
--->
-
 ---
 
 ## 🧩 Tech Stack at a Glance
@@ -244,38 +234,6 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
-## 📌 Pinned Projects
-
-<!--
-  ⚠️ Замени REPO_NAME_1 / REPO_NAME_2 на реальные названия своих репозиториев
-  (регистр важен, имя берётся из URL github.com/RahimovShaxriyor/<repo>).
--->
-
-<div align="center">
-
-<a href="https://github.com/RahimovShaxriyor/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahimovShaxriyor&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="pinned repo 1"/>
-</a>
-<a href="https://github.com/RahimovShaxriyor/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahimovShaxriyor&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="pinned repo 2"/>
-</a>
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<!-- ⚠️ Оставь только те, что реально есть — впиши название и ссылку -->
-
-<div align="center">
-
-![Certification](https://img.shields.io/badge/Add_Your_Certification-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -311,22 +269,6 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
-## 📈 Coding Activity (WakaTime)
-
-<!--
-  ⚠️ Требует бесплатный аккаунт на wakatime.com + установленный плагин в IDE.
-  После первой недели трекинга README WakaTime сам генерирует эту секцию
-  через wakatime/waka-readme (GitHub Action) и вставляет её между маркерами ниже.
--->
-
-<!--START_SECTION:waka-->
-```text
-Подключи WakaTime и Action wakatime/waka-readme — статистика появится здесь автоматически.
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -338,8 +280,6 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 ---
 
 ## 🎯 GitHub Achievements
-
-<!-- ⚠️ Оставь только реально полученные ачивки: github.com/RahimovShaxriyor?tab=achievements -->
 
 <div align="center">
 
@@ -353,57 +293,16 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 ---
 
-## 🗺 3D Contribution Calendar
+## 🧭 Currently Exploring
 
-<!--
-  ⚠️ Требует одноразовую настройку GitHub Action в форке
-  yoshi389111/github-profile-3d-contrib на твоём аккаунте —
-  после первого запуска Action сам сгенерирует и обновит SVG ниже.
--->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RahimovShaxriyor/github-profile-3d-contrib/main/profile-3d-contrib/grid.svg" alt="3D contribution calendar" width="90%"/>
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!--
-  ⚠️ Требует одноразовую настройку gautamkrishnar/blog-post-workflow (GitHub Action)
-  с твоим RSS-фидом (Medium / Hashnode / dev.to) — Action сам обновляет список ниже.
--->
-
-<!-- BLOG-POST-LIST:START -->
-- Подключи `gautamkrishnar/blog-post-workflow` — последние статьи появятся здесь автоматически
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🧭 Roadmap / What's Coming Next
-
-Once current projects reach production, this profile will grow to cover:
-
-- ✔ Clean Architecture & Domain-Driven Design (where genuinely applicable)
-- ✔ Event-Driven Architecture (Kafka-based)
-- ✔ CQRS
-- ✔ Automated Testing & CI/CD pipelines
-- ✔ WCAG Accessibility compliance
-- ✔ Performance Optimization
-- ✔ Dockerized, production-hardened deployments
-- ✔ Expanded Telegram Mini Apps portfolio
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
+- Clean Architecture & Domain-Driven Design (where genuinely applicable)
+- Event-Driven Architecture (Kafka-based)
+- CQRS
+- Automated Testing & CI/CD pipelines
+- WCAG Accessibility compliance
+- Performance Optimization
+- Dockerized, production-hardened deployments
+- Expanded Telegram Mini Apps portfolio
 
 ---
 
