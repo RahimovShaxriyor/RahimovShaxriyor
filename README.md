@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Rakhimov&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Software%20Engineer%20%E2%80%A2%20Java%20%2F%20Spring%20%2B%20React%2FTS&descSize=16&descAlignY=58" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shaxriyor%20Rakhimov&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Software%20Engineer%20%E2%80%A2%20Java%20%2F%20Spring%20%2B%20React%2FTS&descSize=16&descAlignY=58" alt="header banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=600&color=38C2FF&center=true&vCenter=true&width=620&lines=Java+21+%2F+Spring+Boot+Backend+Engineer;React+19+%2F+TypeScript+Frontend;Python+%2F+FastAPI+%2F+Computer+Vision;Telegram+Mini+Apps+Developer;Docker+%2B+Nginx+%2B+Cloudflare+Infrastructure" alt="typing svg"/>
 
@@ -14,9 +14,13 @@
 <img src="https://img.shields.io/github/followers/RahimovShaxriyor?style=for-the-badge&logo=github&color=0891b2" alt="followers"/>
 <img src="https://img.shields.io/github/stars/RahimovShaxriyor?style=for-the-badge&logo=github&color=0891b2" alt="stars"/>
 
+<br/><br/>
+
+**[About](#-about-me) · [Experience](#-work-experience) · [Stack](#-tech-stack-at-a-glance) · [Stats](#-github-stats) · [Exploring](#-currently-exploring) · [Contact](#-contact)**
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 👋 About Me
 
@@ -34,7 +38,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 **Interested in:** Backend Engineering · Distributed Systems · Microservices · AI-powered Applications · Computer Vision · High-performance APIs
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -46,7 +50,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 🧩 Tech Stack at a Glance
 
@@ -57,7 +61,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 <br/>
 
 <details open>
-<summary><b>🚀 Languages</b></summary>
+<summary><b>☕ Languages & Backend</b></summary>
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,25 +69,11 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☕ Backend</b></summary>
-<br/>
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-232F3E?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -92,64 +82,33 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 </details>
 
 <details>
-<summary><b>⚛️ Frontend</b></summary>
+<summary><b>⚛️ Frontend & UI</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility_(ARIA)-005A9C?style=for-the-badge&logo=accessibility&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps_SDK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🎨 UI / Styling</b></summary>
-<br/>
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
-![Dark UI](https://img.shields.io/badge/Dark_UI-121212?style=for-the-badge&logo=darkreader&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility_(ARIA)-005A9C?style=for-the-badge&logo=accessibility&logoColor=white)
-![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge&logo=lucide&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI / Computer Vision</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Face Detection](https://img.shields.io/badge/Face_Detection-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image_Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄 Database</b></summary>
+<summary><b>🤖 Data, AI & DevOps</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![DB Migrations](https://img.shields.io/badge/DB_Migrations-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps</b></summary>
-<br/>
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -160,32 +119,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 </details>
 
 <details>
-<summary><b>🔐 Authentication & Security</b></summary>
-<br/>
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_Concepts-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Refresh Tokens](https://img.shields.io/badge/Refresh_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-000000?style=for-the-badge&logo=authelia&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📱 Mobile / Telegram</b></summary>
-<br/>
-
-![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Deep Links](https://img.shields.io/badge/Deep_Links-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![WebApp API](https://img.shields.io/badge/WebApp_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🛠 Development Tools</b></summary>
+<summary><b>🔐 Tools, Security & Architecture</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -193,46 +127,20 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🏗 Architecture</b></summary>
-<br/>
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_Concepts-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-000000?style=for-the-badge&logo=authelia&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B32C3?style=for-the-badge&logo=archlinux&logoColor=white)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-4B32C3?style=for-the-badge&logo=archlinux&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Monorepo](https://img.shields.io/badge/Monorepo-FF6F00?style=for-the-badge&logo=turborepo&logoColor=white)
-![Client-Server](https://img.shields.io/badge/Client--Server_Architecture-4B32C3?style=for-the-badge&logo=serverless&logoColor=white)
 ![State Management](https://img.shields.io/badge/State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📦 Infrastructure</b></summary>
-<br/>
-
-![Docker Networking](https://img.shields.io/badge/Docker_Networking-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Health Checks](https://img.shields.io/badge/Health_Checks-2496ED?style=for-the-badge&logo=statuspage&logoColor=white)
-![Environment Variables](https://img.shields.io/badge/Environment_Variables-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![Production Builds](https://img.shields.io/badge/Production_Builds-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>💻 Operating Systems</b></summary>
-<br/>
-
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -251,7 +159,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 🃏 Profile Summary Cards
 
@@ -267,7 +175,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 🏆 Trophies
 
@@ -277,21 +185,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
----
-
-## 🎯 GitHub Achievements
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-181717?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-181717?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/🎯_YOLO-181717?style=for-the-badge)
-![Arctic Code Vault Contributor](https://img.shields.io/badge/❄️_Arctic_Code_Vault_Contributor-181717?style=for-the-badge)
-![Starstruck](https://img.shields.io/badge/🌟_Starstruck-181717?style=for-the-badge)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 🧭 Currently Exploring
 
@@ -304,7 +198,7 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 - Dockerized, production-hardened deployments
 - Expanded Telegram Mini Apps portfolio
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&animation=fadeIn" width="100%"/>
 
 ## 📫 Contact
 
@@ -316,12 +210,10 @@ Backend-focused **Software Engineer** with strong experience in **Java** and the
 
 </div>
 
----
-
 <div align="center">
 
 ⭐ If you find my work useful, consider starring the repository ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer banner" width="100%"/>
