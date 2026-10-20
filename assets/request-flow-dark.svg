@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="154" viewBox="0 0 640 154" role="img" aria-labelledby="title desc">
+<title id="title">Request flow — Shaxriyor Rakhimov</title>
+<desc id="desc">An illustrative client, API, service, and data pipeline. One blue signal travels across the connections, then stops. This is a visual motif, not a project architecture diagram.</desc>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+.signal { animation: request 4s ease-in-out 1 forwards; }
+@keyframes request { 0% {transform:translateX(0);opacity:0} 10% {opacity:1} 85% {opacity:1} 100% {transform:translateX(320px);opacity:0} }
+@media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity:0; } }
+</style>
+<rect x="0.5" y="0.5" width="639" height="153" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="32" fill="#9da7b3" font-size="15" letter-spacing="1.4">SR / SYSTEM CONNECTIONS</text>
+<circle cx="612" cy="27" r="4" fill="#38bdf8"/>
+<path d="M160 87H176 M312 87H328 M464 87H480" stroke="#38bdf8" stroke-width="2"/>
+<rect x="24" y="57" width="136" height="60" rx="9" fill="#161b22" stroke="#30363d"/><text x="92" y="94" text-anchor="middle" fill="#e6edf3" font-size="21">CLIENT</text><rect x="176" y="57" width="136" height="60" rx="9" fill="#161b22" stroke="#30363d"/><text x="244" y="94" text-anchor="middle" fill="#e6edf3" font-size="21">API</text><rect x="328" y="57" width="136" height="60" rx="9" fill="#161b22" stroke="#30363d"/><text x="396" y="94" text-anchor="middle" fill="#e6edf3" font-size="21">SERVICE</text><rect x="480" y="57" width="136" height="60" rx="9" fill="#161b22" stroke="#30363d"/><text x="548" y="94" text-anchor="middle" fill="#e6edf3" font-size="21">DATA</text>
+<circle class="signal" cx="160" cy="87" r="4" fill="#38bdf8" opacity="0"/>
+<path d="M24 136H104" stroke="#38bdf8" stroke-width="2"/>
+<path d="M112 136H616" stroke="#30363d"/>
+</svg>
