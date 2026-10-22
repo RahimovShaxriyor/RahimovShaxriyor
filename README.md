@@ -1,6 +1,6 @@
 <!-- Personal portfolio. SVG artwork lives in assets/. -->
 <p align="center">
-  <img src="assets/sr-hero.svg" width="100%" alt="Shaxriyor Rakhimov — Software Engineer / Java Backend Engineer. APIs, events, and connected systems.">
+  <img src="assets/sr-hero.svg" width="100%" alt="Shaxriyor Raximov — Software Engineer / Java Backend Engineer. APIs, events, and connected systems.">
 </p>
 
 <p align="center">
