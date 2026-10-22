@@ -23,11 +23,13 @@ With **React and TypeScript**, I bring that work into usable interfaces. My proj
   <img src="assets/hotelos-cover.svg" width="100%" alt="HotelOS — event-driven backend for connected hotel operations. Java, Spring Boot, RabbitMQ. Open repository.">
 </a>
 
-Hotel operations across **reception, housekeeping, room service, and maintenance**.
+**Java 17 · Spring Boot · PostgreSQL · RabbitMQ · Flyway**
 
-**Inside the architecture** · PostgreSQL row locking for room allocation, a transactional outbox with RabbitMQ, and WebSocket updates for the operations dashboard.
+**Architecture & problem** · Separate hotel operations into bounded contexts. Row-level locking coordinates concurrent room allocation; a transactional outbox with publisher confirms handles event delivery.
 
-[**Explore HotelOS ↗**](https://github.com/RahimovShaxriyor/hotelos-microservices) &nbsp; · &nbsp; [Architecture](https://github.com/RahimovShaxriyor/hotelos-microservices#architecture)
+**Implementation outcome** · Independent room-state axes and correlated turnover events support the reception-to-housekeeping lifecycle, with WebSocket updates for the operations dashboard.
+
+[**Explore HotelOS ↗**](https://github.com/RahimovShaxriyor/hotelos-microservices) &nbsp; · &nbsp; [Architecture](https://github.com/RahimovShaxriyor/hotelos-microservices#architecture) &nbsp; · &nbsp; [Activity](https://github.com/RahimovShaxriyor/hotelos-microservices/commits/main)
 
 <br>
 
@@ -35,11 +37,13 @@ Hotel operations across **reception, housekeeping, room service, and maintenance
   <img src="assets/cloudware-cover.svg" width="100%" alt="CloudWare Pro — full-stack wholesale management demo. Spring Boot, React, PostgreSQL. Open repository.">
 </a>
 
-A wholesale management demo for **products, inventory, customers, orders, and payments**.
+**Java 17 · Spring Boot · Spring JDBC · React / TypeScript · PostgreSQL · Nginx**
 
-**Inside the architecture** · Domain-specific Spring services behind Nginx, a React interface, and Docker Compose networking with PostgreSQL persistence.
+**Architecture & problem** · Route wholesale workflows across seven domain services through Nginx, with a shared Java module and a React SPA.
 
-[**Explore CloudWare Pro ↗**](https://github.com/RahimovShaxriyor/cloudeware-pro) &nbsp; · &nbsp; [Service topology](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docker-compose.yml)
+**Implementation outcome** · Products, inventory, customer orders, and payments are connected through one interface and a reproducible Docker Compose environment. This remains a demonstration application, without a verified production SLA.
+
+[**Explore CloudWare Pro ↗**](https://github.com/RahimovShaxriyor/cloudeware-pro) &nbsp; · &nbsp; [Architecture](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docs/ARCHITECTURE.md) &nbsp; · &nbsp; [Activity](https://github.com/RahimovShaxriyor/cloudeware-pro/commits/main)
 
 <br>
 
@@ -47,11 +51,61 @@ A wholesale management demo for **products, inventory, customers, orders, and pa
   <img src="assets/redis-cover.svg" width="100%" alt="Redis Visual Demo — an interactive data and caching lab. Java, Spring Data Redis, Docker. Open repository.">
 </a>
 
-An interactive learning project that makes **Redis behavior visible in the browser**.
+**Java 17 · Spring Boot · Spring Data Redis · Redis 7 · Docker Compose**
 
-**Inside the architecture** · Expiring keys, atomic counters, and courier status stored in Redis hashes through a Spring service layer.
+**Architecture & problem** · A browser UI calls a Spring service backed by `StringRedisTemplate`, making temporary data and Redis operations observable.
 
-[**Explore Redis Visual Demo ↗**](https://github.com/RahimovShaxriyor/ExampleWeb-Redis)
+**Implementation outcome** · Interactive examples of key expiry, atomic increments, and courier-state hashes. A focused learning lab; it does not claim measured database-load reductions or production scale.
+
+[**Explore Redis Visual Demo ↗**](https://github.com/RahimovShaxriyor/ExampleWeb-Redis) &nbsp; · &nbsp; [Implementation](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/blob/main/src/main/java/org/gatewayservice/RedisDemoService.java) &nbsp; · &nbsp; [Activity](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/commits/main)
+
+<br>
+
+## Engineering Activity
+
+Profile-wide activity, with repository-level evidence below. Counts describe GitHub activity; they are not a code-quality or productivity score.
+
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/engineering/activity-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="assets/engineering/activity-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineering/activity-dark.svg">
+  <img src="assets/engineering/activity-light.svg" width="100%" alt="Engineering activity snapshot: contributions, public pull requests, stars on owned public repositories, and contribution streaks. The image states its reporting period and snapshot date.">
+</picture>
+
+<sub>365-day contribution window; streaks use GitHub calendar dates and are bounded by that window. PR counts cover public authored PRs, all time; stars cover owned public repositories. Optional commit-contribution and repository counts require a successful GitHub GraphQL response. No complete lifetime commit total is claimed.</sub>
+
+[Contribution history](https://github.com/RahimovShaxriyor?tab=overview) &nbsp; · &nbsp; [Pull requests](https://github.com/search?q=author%3ARahimovShaxriyor+is%3Apr&type=pullrequests) &nbsp; · &nbsp; [Snapshot & definitions](assets/engineering/snapshot.json)
+
+### Engineering Practices
+
+- **Consistency & event delivery:** [row-level allocation locking](https://github.com/RahimovShaxriyor/hotelos-microservices/blob/main/reception-service/src/main/java/com/hotelos/reception/persistence/repository/RoomRepository.java) and [outbox publisher confirms / retry backoff](https://github.com/RahimovShaxriyor/hotelos-microservices/blob/main/reception-service/src/main/java/com/hotelos/reception/outbox/ReceptionOutboxDispatcher.java).
+- **Schema & API contracts:** [Flyway migrations](https://github.com/RahimovShaxriyor/hotelos-microservices/tree/main/reception-service/src/main/resources/db/migration) and an [OpenAPI response matrix](https://github.com/RahimovShaxriyor/hotelos-microservices/blob/main/docs/api/OPENAPI_RESPONSE_MATRIX.md).
+- **Authentication:** [RS256 tokens, BCrypt credentials, and account lockout](https://github.com/RahimovShaxriyor/hotelos-microservices/blob/main/docs/auth.md).
+- **Reproducible environments:** [CloudWare Docker Compose topology](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docker-compose.yml) and [domain-service architecture](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docs/ARCHITECTURE.md).
+
+### Featured repository activity
+
+<!-- BEGIN VERIFIED PROJECT ACTIVITY -->
+<sub>Source activity checked 2026-10-22 (UTC). File-filtered history; empty commits are excluded.</sub>
+
+- **HotelOS** · [8eeba47](https://github.com/RahimovShaxriyor/hotelos-microservices/commit/8eeba47ef85e8b94e8bc354c318ced6bae6a7b21) · 2026-10-20 · feat(rooms): add room administration lifecycle and safe state repair (reception source).
+  GitHub Actions: no workflows present.
+- **CloudWare Pro** · [34ce7f1](https://github.com/RahimovShaxriyor/cloudeware-pro/commit/34ce7f12889ded05530cd00160ce6b5bf61ba1f6) · 2026-06-10 · update log in (backend + frontend).
+  GitHub Actions: no workflows present.
+- **Redis Visual Demo** · [a636388](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/commit/a6363881ff6635c136a3e181732735db4fd6eb82) · 2026-05-19 · 1 (application source).
+  GitHub Actions: no workflows present.
+<!-- END VERIFIED PROJECT ACTIVITY -->
+
+<details>
+<summary>Scope &amp; update policy</summary>
+
+The SVG and JSON are versioned snapshots from GitHub's public contribution calendar and APIs. The optional daily workflow refreshes actual data only; a failed collection retains the last successful snapshot and its date. No third-party statistics service is required.
+
+The calendar can include empty or backdated commits recognized by GitHub. Source activity above is filtered to the named application paths and verified to contain changed files; it is not a claim about every change in each repository. Commit timestamps are not independent evidence of when work was performed.
+
+No automated test suite or GitHub Actions pipeline was verified in the three featured repositories at the initial audit. Manual HTTP scenarios, dependency declarations, and container configuration are not presented as passing CI or test coverage. No code-review claim is made without review evidence.
+
+</details>
 
 <br>
 
@@ -96,3 +150,4 @@ For project inquiries and engineering conversations.
 [**Email ↗**](mailto:rahimov55shah@gmail.com) &nbsp; · &nbsp; [**Telegram ↗**](https://t.me/raximovshaxriyor) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/RahimovShaxriyor)
 
 <sub>Shaxriyor Rakhimov · APIs, events, and the systems that connect them.</sub>
+
