@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="678" viewBox="0 0 960 678" role="img" aria-labelledby="title desc">
+<title id="title">Engineering Activity</title>
+<desc id="desc">GitHub activity snapshot through 2026-10-22. Counts are activity, not code-quality scores. Streaks are bounded by the displayed 365-day window.</desc>
+<style>text{font-family:Segoe UI,Arial,sans-serif}</style>
+<rect x=".5" y=".5" width="959" height="677" rx="18" fill="#f6f8fc" stroke="#d5deea"/>
+<text x="32" y="38" font-size="16" fill="#086e9d" font-weight="600">SR / ENGINEERING ACTIVITY</text>
+<text x="32" y="65" font-size="14" fill="#4b6079" font-weight="400">2025-10-23 — 2026-10-22</text>
+<text x="32" y="87" font-size="13" fill="#4b6079" font-weight="400">GitHub snapshot · not a quality score</text>
+<rect x="32.0" y="104" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="46.0" y="127" font-size="15" fill="#4b6079" font-weight="400">Contributions</text>
+<text x="46.0" y="165" font-size="32" fill="#172b45" font-weight="600">9,682</text>
+<text x="46.0" y="188" font-size="13" fill="#4b6079" font-weight="400">365-day window</text>
+<rect x="334.6666666666667" y="104" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="348.6666666666667" y="127" font-size="15" fill="#4b6079" font-weight="400">PRs created</text>
+<text x="348.6666666666667" y="165" font-size="32" fill="#172b45" font-weight="600">0</text>
+<text x="348.6666666666667" y="188" font-size="13" fill="#4b6079" font-weight="400">public · all time</text>
+<rect x="637.3333333333334" y="104" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="651.3333333333334" y="127" font-size="15" fill="#4b6079" font-weight="400">PRs merged</text>
+<text x="651.3333333333334" y="165" font-size="32" fill="#172b45" font-weight="600">0</text>
+<text x="651.3333333333334" y="188" font-size="13" fill="#4b6079" font-weight="400">public · all time</text>
+<rect x="32.0" y="216" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="46.0" y="239" font-size="15" fill="#4b6079" font-weight="400">Repository stars</text>
+<text x="46.0" y="277" font-size="32" fill="#172b45" font-weight="600">31</text>
+<text x="46.0" y="300" font-size="13" fill="#4b6079" font-weight="400">owned public repos</text>
+<rect x="334.6666666666667" y="216" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="348.6666666666667" y="239" font-size="15" fill="#4b6079" font-weight="400">Current streak</text>
+<text x="348.6666666666667" y="277" font-size="32" fill="#172b45" font-weight="600">3</text>
+<text x="348.6666666666667" y="300" font-size="13" fill="#4b6079" font-weight="400">days · calendar dates</text>
+<rect x="637.3333333333334" y="216" width="290.6666666666667" height="100" rx="10" fill="#ffffff" stroke="#d5deea"/>
+<text x="651.3333333333334" y="239" font-size="15" fill="#4b6079" font-weight="400">Longest streak</text>
+<text x="651.3333333333334" y="277" font-size="32" fill="#172b45" font-weight="600">64</text>
+<text x="651.3333333333334" y="300" font-size="13" fill="#4b6079" font-weight="400">days · within window</text>
+<text x="32" y="368" font-size="18" fill="#172b45" font-weight="600">Contributions over time</text>
+<text x="32" y="392" font-size="14" fill="#4b6079" font-weight="400">Monthly totals · edge months are partial</text>
+<path d="M72 558h856" stroke="#d5deea"/>
+<text x="32" y="562" font-size="11" fill="#4b6079" font-weight="400">0</text>
+<path d="M72 493.0h856" stroke="#d5deea"/>
+<text x="32" y="497.0" font-size="11" fill="#4b6079" font-weight="400">2051</text>
+<path d="M72 428h856" stroke="#d5deea"/>
+<text x="32" y="432" font-size="11" fill="#4b6079" font-weight="400">4102</text>
+<rect x="75.00" y="558.00" width="59.85" height="0.00" rx="2" fill="#086e9d"><title>2025-10: 0 contributions</title></rect>
+<text x="75.0" y="578" font-size="13" fill="#4b6079" font-weight="400">Oct</text>
+<rect x="140.85" y="557.94" width="59.85" height="0.06" rx="2" fill="#086e9d"><title>2025-11: 2 contributions</title></rect>
+<text x="140.84615384615384" y="578" font-size="13" fill="#4b6079" font-weight="400">Nov</text>
+<rect x="206.69" y="557.30" width="59.85" height="0.70" rx="2" fill="#086e9d"><title>2025-12: 22 contributions</title></rect>
+<text x="206.69230769230768" y="578" font-size="13" fill="#4b6079" font-weight="400">Dec</text>
+<rect x="272.54" y="556.95" width="59.85" height="1.05" rx="2" fill="#086e9d"><title>2026-01: 33 contributions</title></rect>
+<text x="272.53846153846155" y="578" font-size="13" fill="#4b6079" font-weight="400">Jan</text>
+<rect x="338.38" y="557.75" width="59.85" height="0.25" rx="2" fill="#086e9d"><title>2026-02: 8 contributions</title></rect>
+<text x="338.38461538461536" y="578" font-size="13" fill="#4b6079" font-weight="400">Feb</text>
+<rect x="404.23" y="555.97" width="59.85" height="2.03" rx="2" fill="#086e9d"><title>2026-03: 64 contributions</title></rect>
+<text x="404.23076923076917" y="578" font-size="13" fill="#4b6079" font-weight="400">Mar</text>
+<rect x="470.08" y="483.75" width="59.85" height="74.25" rx="2" fill="#086e9d"><title>2026-04: 2343 contributions</title></rect>
+<text x="470.07692307692304" y="578" font-size="13" fill="#4b6079" font-weight="400">Apr</text>
+<rect x="535.92" y="428.00" width="59.85" height="130.00" rx="2" fill="#086e9d"><title>2026-05: 4102 contributions</title></rect>
+<text x="535.9230769230769" y="578" font-size="13" fill="#4b6079" font-weight="400">May</text>
+<rect x="601.77" y="462.89" width="59.85" height="95.11" rx="2" fill="#086e9d"><title>2026-06: 3001 contributions</title></rect>
+<text x="601.7692307692307" y="578" font-size="13" fill="#4b6079" font-weight="400">Jun</text>
+<rect x="667.62" y="557.62" width="59.85" height="0.38" rx="2" fill="#086e9d"><title>2026-07: 12 contributions</title></rect>
+<text x="667.6153846153845" y="578" font-size="13" fill="#4b6079" font-weight="400">Jul</text>
+<rect x="733.46" y="557.43" width="59.85" height="0.57" rx="2" fill="#086e9d"><title>2026-08: 18 contributions</title></rect>
+<text x="733.4615384615383" y="578" font-size="13" fill="#4b6079" font-weight="400">Aug</text>
+<rect x="799.31" y="557.30" width="59.85" height="0.70" rx="2" fill="#086e9d"><title>2026-09: 22 contributions</title></rect>
+<text x="799.3076923076923" y="578" font-size="13" fill="#4b6079" font-weight="400">Sep</text>
+<rect x="865.15" y="556.26" width="59.85" height="1.74" rx="2" fill="#086e9d"><title>2026-10: 55 contributions</title></rect>
+<text x="865.1538461538461" y="578" font-size="13" fill="#4b6079" font-weight="400">Oct</text>
+<text x="32" y="642" font-size="14" fill="#4b6079" font-weight="400">Source: GitHub · no third-party widgets</text>
+<text x="32" y="662" font-size="12" fill="#4b6079" font-weight="400">Snapshot date: 2026-10-22 UTC</text>
+</svg>
