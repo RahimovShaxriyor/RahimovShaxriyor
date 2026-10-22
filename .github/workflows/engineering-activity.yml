@@ -1,0 +1,44 @@
+name: Engineering activity snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 7 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: engineering-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Publication authorized by the owner; set the variable to false to pause.
+    if: github.repository == 'RahimovShaxriyor/RahimovShaxriyor' && vars.ENABLE_ACTIVITY_UPDATES != 'false'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6, verified tag
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 1
+      - name: Test metric definitions and fallback behavior
+        run: python3 -m unittest discover -s scripts/tests -v
+      - name: Collect verified GitHub data and render SVGs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/engineering_activity.py
+      - name: Publish actual snapshot changes only
+        run: |
+          git add -- assets/engineering README.md
+          if git diff --cached --quiet; then
+            echo "Snapshot unchanged; nothing to publish."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "chore(profile): refresh verified engineering activity"
+          git push
