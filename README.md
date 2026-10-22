@@ -1,95 +1,98 @@
-<h1 align="center">Shaxriyor Rakhimov</h1>
-
+<!-- Personal portfolio. SVG artwork lives in assets/. -->
 <p align="center">
-  <strong>Software Engineer · Java &amp; Spring Boot · Backend Systems</strong><br>
-  APIs, data, and the systems that connect them.
+  <img src="assets/sr-hero.svg" width="100%" alt="Shaxriyor Rakhimov — Software Engineer / Java Backend Engineer. APIs, events, and connected systems.">
 </p>
 
 <p align="center">
-  <a href="https://github.com/RahimovShaxriyor">GitHub</a> &nbsp; / &nbsp;
-  <a href="https://t.me/raximovshaxriyor">Telegram</a> &nbsp; / &nbsp;
-  <a href="mailto:rahimov55shah@gmail.com">Email</a>
+  <a href="https://github.com/RahimovShaxriyor?tab=repositories"><b>Explore my work ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://t.me/raximovshaxriyor"><b>Telegram</b></a> &nbsp; · &nbsp;
+  <a href="mailto:rahimov55shah@gmail.com"><b>Get in touch</b></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/request-flow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/request-flow-light.svg">
-  <img src="assets/request-flow-light.svg" width="100%" alt="An illustrative request flow: client to API to service to data, connected by a blue signal.">
-</picture>
+### Behind the systems
 
-## About
+I’m **Shaxriyor**, a software engineer working with **Java and Spring Boot**. I build APIs, connect services, and work through the details that make systems reliable: authentication, relational data, asynchronous events, and containerized infrastructure.
 
-I build backend applications with **Java and Spring Boot**, working across REST APIs, authentication, relational data, and containerized infrastructure. My projects explore service boundaries, asynchronous messaging, and data consistency.
+With **React and TypeScript**, I bring that work into usable interfaces. My projects connect backend engineering with the experience on the other side of the API.
 
-With **React and TypeScript**, I also connect backend capabilities to usable interfaces — from API design to the application people interact with.
+<br>
 
-## Featured Projects
+## Selected work
 
-<table width="100%">
-<tr><td>
-<sub>01 / EVENT-DRIVEN BACKEND</sub>
-<h3><a href="https://github.com/RahimovShaxriyor/hotelos-microservices">HotelOS</a></h3>
-<p>Hotel operations across reception, housekeeping, room service, and maintenance.</p>
-<p><strong>Engineering focus:</strong> PostgreSQL row locking for room allocation, transactional outbox events over RabbitMQ, and WebSocket updates for the operations dashboard.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Docker</code></p>
-<p><a href="https://github.com/RahimovShaxriyor/hotelos-microservices#architecture">Explore architecture →</a></p>
-</td></tr>
-<tr><td>
-<sub>02 / FULL-STACK BUSINESS APPLICATION</sub>
-<h3><a href="https://github.com/RahimovShaxriyor/cloudeware-pro">CloudWare Pro</a></h3>
-<p>A wholesale management demo covering products, inventory, customers, orders, and payments.</p>
-<p><strong>Engineering focus:</strong> domain-specific backend services behind Nginx, a React interface, and Docker Compose networking with PostgreSQL persistence.</p>
-<p><code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Nginx</code></p>
-<p><a href="https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docker-compose.yml">Explore service topology →</a></p>
-</td></tr>
-<tr><td>
-<sub>03 / DATA &amp; CACHING LAB</sub>
-<h3><a href="https://github.com/RahimovShaxriyor/ExampleWeb-Redis">Redis Visual Demo</a></h3>
-<p>An interactive learning project that makes Redis behavior visible in the browser.</p>
-<p><strong>Engineering focus:</strong> expiring keys, atomic counters, and courier status stored in Redis hashes through a Spring service layer.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>Spring Data Redis</code> <code>Docker Compose</code></p>
-<p><a href="https://github.com/RahimovShaxriyor/ExampleWeb-Redis">Explore the implementation →</a></p>
-</td></tr>
-</table>
-
-[All public repositories →](https://github.com/RahimovShaxriyor?tab=repositories)
-
-## Tech Stack
-
-<img src="assets/backend.svg" width="20" height="20" alt=""> **Core Backend**  
-Java · Spring Boot · Spring Security · Hibernate · REST APIs
-
-<img src="assets/data.svg" width="20" height="20" alt=""> **Databases & Messaging**  
-PostgreSQL · Redis · RabbitMQ
-
-<img src="assets/frontend.svg" width="20" height="20" alt=""> **Frontend**  
-React · TypeScript · Vite · Tailwind CSS
-
-<img src="assets/infrastructure.svg" width="20" height="20" alt=""> **Infrastructure & Tools**  
-Docker · Git · Linux · Nginx · GitHub Actions / CI/CD
-
-**Also working with:** Python, FastAPI, MediaPipe, OpenCV, and Telegram Mini Apps.
-
-## Experience
-
-**BTS — Full-Stack Software Engineer**  
-February 2026 — Present  
-Java · Spring Boot · React · TypeScript · PostgreSQL · Docker
-
-## GitHub Activity
-
-<a href="https://github.com/RahimovShaxriyor?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimovShaxriyor&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimovShaxriyor&amp;theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahimovShaxriyor&amp;theme=github" width="100%" alt="GitHub contribution activity for RahimovShaxriyor. Open the GitHub profile for the current contribution history.">
-  </picture>
+<a href="https://github.com/RahimovShaxriyor/hotelos-microservices">
+  <img src="assets/hotelos-cover.svg" width="100%" alt="HotelOS — event-driven backend for connected hotel operations. Java, Spring Boot, RabbitMQ. Open repository.">
 </a>
 
-[View contribution history on GitHub →](https://github.com/RahimovShaxriyor?tab=overview)
+Hotel operations across **reception, housekeeping, room service, and maintenance**.
 
-## Get in Touch
+**Inside the architecture** · PostgreSQL row locking for room allocation, a transactional outbox with RabbitMQ, and WebSocket updates for the operations dashboard.
 
-For project inquiries and engineering conversations:
+[**Explore HotelOS ↗**](https://github.com/RahimovShaxriyor/hotelos-microservices) &nbsp; · &nbsp; [Architecture](https://github.com/RahimovShaxriyor/hotelos-microservices#architecture)
 
-[rahimov55shah@gmail.com](mailto:rahimov55shah@gmail.com) · [@raximovshaxriyor on Telegram](https://t.me/raximovshaxriyor) · [@RahimovShaxriyor on GitHub](https://github.com/RahimovShaxriyor)
+<br>
+
+<a href="https://github.com/RahimovShaxriyor/cloudeware-pro">
+  <img src="assets/cloudware-cover.svg" width="100%" alt="CloudWare Pro — full-stack wholesale management demo. Spring Boot, React, PostgreSQL. Open repository.">
+</a>
+
+A wholesale management demo for **products, inventory, customers, orders, and payments**.
+
+**Inside the architecture** · Domain-specific Spring services behind Nginx, a React interface, and Docker Compose networking with PostgreSQL persistence.
+
+[**Explore CloudWare Pro ↗**](https://github.com/RahimovShaxriyor/cloudeware-pro) &nbsp; · &nbsp; [Service topology](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docker-compose.yml)
+
+<br>
+
+<a href="https://github.com/RahimovShaxriyor/ExampleWeb-Redis">
+  <img src="assets/redis-cover.svg" width="100%" alt="Redis Visual Demo — an interactive data and caching lab. Java, Spring Data Redis, Docker. Open repository.">
+</a>
+
+An interactive learning project that makes **Redis behavior visible in the browser**.
+
+**Inside the architecture** · Expiring keys, atomic counters, and courier status stored in Redis hashes through a Spring service layer.
+
+[**Explore Redis Visual Demo ↗**](https://github.com/RahimovShaxriyor/ExampleWeb-Redis)
+
+<br>
+
+## Engineering toolkit
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/sr-toolkit-mobile.svg">
+  <img src="assets/sr-toolkit.svg" width="100%" alt="Backend: Java, Spring Boot, Hibernate. Data and messaging: PostgreSQL, Redis, RabbitMQ. Frontend: React, TypeScript, Tailwind CSS. Infrastructure: Docker, Git, Linux, Nginx. AI and vision: Python, FastAPI, OpenCV.">
+</picture>
+
+<details>
+<summary><b>Technologies &amp; working areas</b></summary>
+
+- **Backend Engineering:** Java, Spring Boot, Spring Security, Hibernate, REST APIs.
+- **Database &amp; Messaging:** PostgreSQL, Redis, RabbitMQ.
+- **Frontend Development:** React, TypeScript, Vite, Tailwind CSS.
+- **DevOps &amp; Infrastructure:** Docker, Git, Linux, Nginx, GitHub Actions / CI/CD.
+- **AI / Computer Vision:** Python, FastAPI, MediaPipe, OpenCV.
+- **Also working with:** Telegram Mini Apps.
+
+</details>
+
+<br>
+
+## Currently building
+
+**BTS · Full-Stack Software Engineer**  
+February 2026 — Present
+
+Java &amp; Spring Boot · React &amp; TypeScript · PostgreSQL · Docker
+
+[Browse all repositories ↗](https://github.com/RahimovShaxriyor?tab=repositories) &nbsp; · &nbsp; [Contribution history](https://github.com/RahimovShaxriyor?tab=overview)
+
+<br>
+
+---
+
+### Let’s connect.
+
+For project inquiries and engineering conversations.
+
+[**Email ↗**](mailto:rahimov55shah@gmail.com) &nbsp; · &nbsp; [**Telegram ↗**](https://t.me/raximovshaxriyor) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/RahimovShaxriyor)
+
+<sub>Shaxriyor Rakhimov · APIs, events, and the systems that connect them.</sub>
