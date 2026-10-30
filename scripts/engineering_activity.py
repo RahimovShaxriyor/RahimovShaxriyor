@@ -24,7 +24,6 @@ USER = "RahimovShaxriyor"
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "assets" / "engineering"
 PROJECTS = {
-    "hotelos-microservices": ("HotelOS", ["reception-service/src"], "reception source"),
     "cloudeware-pro": ("CloudWare Pro", ["backend", "frontend"], "backend + frontend"),
     "ExampleWeb-Redis": ("Redis Visual Demo", ["src"], "application source"),
 }
@@ -287,11 +286,11 @@ def write_snapshot(data):
     validate_days({x["date"]:x["count"] for x in data["days"]},date.fromisoformat(data["period_start"]),date.fromisoformat(data["as_of"]))
     if data["contributions"] != sum(x["count"] for x in data["days"]):
         raise ValueError("Contribution total does not match calendar")
-    readme_path=ROOT/"README.md"
+    readme_path=ROOT/"docs"/"activity.md"
     readme=readme_path.read_text(encoding="utf-8")
     pattern=r"<!-- BEGIN VERIFIED PROJECT ACTIVITY -->.*?<!-- END VERIFIED PROJECT ACTIVITY -->"
     if len(re.findall(pattern,readme,flags=re.S)) != 1:
-        raise ValueError("README activity markers missing or duplicated")
+        raise ValueError("Activity document markers missing or duplicated")
     updated=re.sub(pattern,lambda _:activity_markdown(data),readme,flags=re.S)
     files={"snapshot.json":json.dumps(data,ensure_ascii=False,indent=2)+"\n"}
     for theme in ("dark","light"):
