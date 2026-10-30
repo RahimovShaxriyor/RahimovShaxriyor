@@ -25,7 +25,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "assets" / "engineering"
 PROJECTS = {
     "cloudeware-pro": ("CloudWare Pro", ["backend", "frontend"], "backend + frontend"),
-    "ExampleWeb-Redis": ("Redis Visual Demo", ["src"], "application source"),
+    "redis-visual-demo": ("Redis Visual Demo", ["src"], "application source"),
 }
 DEFINITIONS = {
     "contributions": "Sum of GitHub public-profile calendar counts over the inclusive 365-day window. Can include shared private contribution counts and empty/backdated commits recognized by GitHub.",
