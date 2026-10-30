@@ -16,7 +16,7 @@ The profile uses versioned SVG and JSON snapshots collected from GitHub. The rep
 
 - **CloudWare Pro** · [34ce7f1](https://github.com/RahimovShaxriyor/cloudeware-pro/commit/34ce7f12889ded05530cd00160ce6b5bf61ba1f6) · 2026-06-10 · update log in (backend + frontend).
   GitHub Actions: no workflows present.
-- **Redis Visual Demo** · [a636388](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/commit/a6363881ff6635c136a3e181732735db4fd6eb82) · 2026-05-19 · 1 (application source).
+- **Redis Visual Demo** · [a636388](https://github.com/RahimovShaxriyor/redis-visual-demo/commit/a6363881ff6635c136a3e181732735db4fd6eb82) · 2026-05-19 · 1 (application source).
   GitHub Actions: no workflows present.
 <!-- END VERIFIED PROJECT ACTIVITY -->
 
