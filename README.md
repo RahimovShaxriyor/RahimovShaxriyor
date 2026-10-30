@@ -37,7 +37,7 @@ A full-stack demonstration application connecting products, inventory, customer 
 
 <br>
 
-<a href="https://github.com/RahimovShaxriyor/ExampleWeb-Redis">
+<a href="https://github.com/RahimovShaxriyor/redis-visual-demo">
   <picture>
   <source media="(max-width: 640px)" srcset="assets/redis-cover-mobile.svg">
   <img src="assets/redis-cover.svg" width="100%" alt="Redis Visual Demo — an interactive data and caching lab. Java, Spring Data Redis, Docker. Open repository.">
@@ -48,7 +48,7 @@ A full-stack demonstration application connecting products, inventory, customer 
 
 An interactive learning lab for key expiry, atomic counters, and courier-state hashes, backed by Spring Data Redis.
 
-[**Explore Redis Visual Demo ↗**](https://github.com/RahimovShaxriyor/ExampleWeb-Redis) &nbsp; · &nbsp; [Implementation](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/blob/main/src/main/java/org/gatewayservice/RedisDemoService.java) &nbsp; · &nbsp; [Setup guide](https://github.com/RahimovShaxriyor/ExampleWeb-Redis/blob/main/README.md)
+[**Explore Redis Visual Demo ↗**](https://github.com/RahimovShaxriyor/redis-visual-demo) &nbsp; · &nbsp; [Implementation](https://github.com/RahimovShaxriyor/redis-visual-demo/blob/main/src/main/java/org/gatewayservice/RedisDemoService.java) &nbsp; · &nbsp; [Setup guide](https://github.com/RahimovShaxriyor/redis-visual-demo/blob/main/README.md)
 
 <br>
 
