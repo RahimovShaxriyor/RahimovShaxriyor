@@ -33,7 +33,7 @@ jobs:
         run: python3 scripts/engineering_activity.py
       - name: Publish actual snapshot changes only
         run: |
-          git add -- assets/engineering README.md
+          git add -- assets/engineering docs/activity.md
           if git diff --cached --quiet; then
             echo "Snapshot unchanged; nothing to publish."
             exit 0
