@@ -73,6 +73,12 @@ An interactive 3D city built from public GitHub repository data, with a searchab
   <img src="assets/engineering/activity-light.svg" width="100%" alt="Engineering activity snapshot: contributions, public pull requests, stars on owned public repositories, and contribution streaks. The image states its reporting period and snapshot date.">
 </picture>
 
+<p align="center">
+  <a href="https://user-badge.committers.top/uzbekistan/RahimovShaxriyor">
+    <img src="https://user-badge.committers.top/uzbekistan/RahimovShaxriyor.svg" alt="committers.top rank in Uzbekistan">
+  </a>
+</p>
+
 [Contribution history](https://github.com/RahimovShaxriyor?tab=overview) · [Data sources & definitions](docs/activity.md)
 
 ## Engineering toolkit
@@ -116,4 +122,3 @@ For project inquiries and engineering conversations.
 [**Email ↗**](mailto:rahimov55shah@gmail.com) &nbsp; · &nbsp; [**Telegram ↗**](https://t.me/raximovshaxriyor) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/RahimovShaxriyor)
 
 <sub>Shaxriyor Rakhimov · APIs, events, and the systems that connect them.</sub>
-
