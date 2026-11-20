@@ -94,7 +94,74 @@ An interactive 3D city built from public GitHub repository data, with a searchab
 - **Backend Engineering:** Java, Spring Boot, Spring Security, Hibernate, REST APIs.
 - **Database &amp; Messaging:** PostgreSQL, Redis, RabbitMQ.
 - **Frontend Development:** React, TypeScript, Vite, Tailwind CSS.
-- **DevOps &amp; Infrastructure:** Docker, Git, Linux, Nginx.
+- **DevOps &amp; Infrastructure:** Docker, Git, Linux, Nginx.# Shaxriyor Rakhimov
+
+**Java backend engineer** · Full-stack software engineer at **BTS** since February 2026.
+
+I build APIs and event-driven services with Java and Spring Boot. I also build the interfaces people use to work with those services, from a React dashboard for warehouse staff to a Flutter app for tracking couriers.
+
+[Email](mailto:rahimov55shah@gmail.com) · [Telegram](https://t.me/raximovshaxriyor) · [All repositories](https://github.com/RahimovShaxriyor?tab=repositories)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/request-flow-dark.svg">
+  <img src="assets/request-flow-light.svg" width="640" alt="A request flows from a client through an API and a service to stored data.">
+</picture>
+
+## Skills
+
+| Area | Technologies I work with |
+| --- | --- |
+| Backend | **Java**, Spring Boot, Spring Security, Spring Cloud, Hibernate / JPA, Spring JDBC, REST APIs, Python (FastAPI), Node.js (Express) |
+| Data & messaging | SQL, PostgreSQL, Redis, SQLite, Apache Kafka, RabbitMQ, MQTT, WebSockets |
+| Web | JavaScript, TypeScript, React, Next.js, Three.js, Tailwind CSS, Vite, Telegram Mini Apps |
+| Mobile & desktop | Dart, Flutter, JavaFX, Swing |
+| Computer vision | OpenCV, MediaPipe, YOLO, ONNX Runtime, JavaCV, FFmpeg |
+| Build & deployment | Git, Linux, Maven, Docker, Docker Compose, Nginx, GitHub Actions |
+| Testing | JUnit, Playwright, Vitest, pytest |
+
+## Selected projects
+
+### Deliver App
+
+A courier delivery platform built around Spring Boot microservices. Dispatchers assign orders to couriers, and the Flutter app shows each courier’s latest position on a map. The services exchange events through Kafka and stream location updates over WebSockets.
+
+[Backend](https://github.com/RahimovShaxriyor/deliver-backend) · [WebSocket controller](https://github.com/RahimovShaxriyor/deliver-backend/blob/main/location-service/src/main/java/org/locationservice/controller/CourierLocationWebSocketController.java) · [Flutter tracking screen](https://github.com/RahimovShaxriyor/deliver-mobile/blob/main/lib/features/tracking/presentation/tracking_screen.dart)
+
+### CloudWare Pro
+
+A wholesale management demo for tracking stock across warehouses, moving goods between locations, and following customer orders and payments. A React and TypeScript interface talks to Spring Boot services backed by PostgreSQL.
+
+[Repository](https://github.com/RahimovShaxriyor/cloudeware-pro) · [Architecture](https://github.com/RahimovShaxriyor/cloudeware-pro/blob/main/docs/ARCHITECTURE.md)
+
+### CODECITY
+
+A 3D map of my public repositories, built with React, TypeScript, and Three.js. Each building represents a repository. Its height shows code size, and its lit windows show which weeks saw commits.
+
+[![Night view of CODECITY, with weekly commit activity shown as lit windows on the buildings.](https://raw.githubusercontent.com/RahimovShaxriyor/codecity/main/docs/images/city-night.webp)](https://github.com/RahimovShaxriyor/codecity)
+
+[Repository](https://github.com/RahimovShaxriyor/codecity) · [How the data becomes a city](https://github.com/RahimovShaxriyor/codecity/blob/main/src/model.ts)
+
+### More projects
+
+- Detecting bicycles in a live video stream with Java, FFmpeg, and a YOLO model. [StreamCam](https://github.com/RahimovShaxriyor/StreamCam-app)
+- Streaming simulated ultrasonic scans to a browser dashboard with MQTT, FastAPI, and WebSockets. [EchoRadar IoT](https://github.com/RahimovShaxriyor/PyRadar)
+- Exploring how Redis keys expire, counters increment, and hashes store courier state. [Redis Visual Demo](https://github.com/RahimovShaxriyor/redis-visual-demo)
+- Testing a venue booking flow that remembers the selected date when a guest signs in. [ToyxonaHub end-to-end test](https://github.com/RahimovShaxriyor/ToyxonaHub/blob/main/frontend/e2e/guest-booking-flow.spec.js)
+
+<details>
+<summary><b>GitHub activity</b></summary>
+
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/engineering/activity-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="assets/engineering/activity-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineering/activity-dark.svg">
+  <img src="assets/engineering/activity-light.svg" width="100%" alt="GitHub contributions, public pull requests, stars, and contribution streaks for the reporting period shown.">
+</picture>
+
+[Contribution history](https://github.com/RahimovShaxriyor?tab=overview) · [Data sources and definitions](docs/activity.md)
+
+</details>
+
 - **AI / Computer Vision:** Python, FastAPI, MediaPipe, OpenCV.
 - **Also working with:** Telegram Mini Apps.
 
